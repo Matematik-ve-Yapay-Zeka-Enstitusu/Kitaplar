@@ -149,6 +149,9 @@ https://networks.quantecon.org/
 
 * ## Bilgisayar Ağları
 
+* ## Bilişim
+https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf
+
 https://book.systemsapproach.org/
 
 * ## Lineer Cebir
